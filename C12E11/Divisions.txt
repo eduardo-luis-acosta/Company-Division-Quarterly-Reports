@@ -1,0 +1,15 @@
+North Division:
+Quarter: 1
+Quarterly Sales: 1
+
+South Division:
+Quarter: 1
+Quarterly Sales: 1
+
+East Division:
+Quarter: 1
+Quarterly Sales: 500
+
+West Division:
+Quarter: 1
+Quarterly Sales: 1
